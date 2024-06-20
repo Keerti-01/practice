@@ -1,0 +1,20 @@
+GIT ==> version control tool/ software ==> local computer 
+
+git ==> local repository ==> local computer store/ track
+
+github ==> remote repository => remote = other server/ computer somewhere on internet
+
+==> track ==> partner ==> host the website
+
+git
+
+working area  ==> intialize git >> git init ===> .git/ hidden folder
+
+staging area ==> >> git add <filename>
+
+>> git add .  ===> staging area add ===> git started to track the files
+
+git repository/local repository ==> git commit -m "message"
+
+
+why staging area? ==> some files are needed to be ignored ==> .gitignore ==> files
