@@ -3,3 +3,7 @@ hello everyone this is file 1!
 good morning !!!
 
 dhlfjdf;okfjpew9jfldksmcldsm.dlvc
+dfk,akhdlfjdlfm.dksm,dsn
+
+
+git checkout ==> git add . 
