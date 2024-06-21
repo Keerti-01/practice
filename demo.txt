@@ -18,3 +18,12 @@ git repository/local repository ==> git commit -m "message"
 
 
 why staging area? ==> some files are needed to be ignored ==> .gitignore ==> files
+
+git push -u origin main
+
+cloning --> remote --> local repository
+
+git clone <url>
+
+branching and merging
+
